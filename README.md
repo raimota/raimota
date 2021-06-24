@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá!! 👋
+### Eu sou estudante de ciência da computação, e estou por aí em busca de uma oportunidade para desenvolver meus conhecimentos. Enquanto essa não vem, eu procuro absorver o máximo de conhecimento possível, além de aprimorar os que tenho.
+
+
 
 <!--
 **raimota/raimota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
