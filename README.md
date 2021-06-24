@@ -1,6 +1,5 @@
 ### Olá!!! 👋
-### Eu me chamo Rai, eu sou estudante de ciência da computação, e estou por aí em busca de uma oportunidade para desenvolver meus conhecimentos. Enquanto essa não vem, eu procuro absorver o máximo de conhecimentos possíveis, além de aprimorar os que tenho.
-
+### Eu me chamo Rai, eu sou estudante de ciência da computação, e estou por aí em busca de uma oportunidade para desenvolver meus conhecimentos. Enquanto essa não vem, eu procuro absorver o máximo de conhecimentos possíveis, além de aprimorar os que tenho.  :computer: :v: :smile:
 
 
 <!--
