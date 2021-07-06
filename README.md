@@ -2,6 +2,9 @@
 ### Eu me chamo Rai, eu sou estudante de ciência da computação, e estou por aí em busca de uma oportunidade para desenvolver meus conhecimentos. Enquanto essa não vem, eu procuro absorver o máximo de conhecimentos possíveis, além de aprimorar os que tenho.  :computer: :v: :smile:
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raimota)](https://github.com/raimota/github-readme-stats)
+
 <!--
 **raimota/raimota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
