@@ -1,5 +1,5 @@
 ### Olá!!! 👋
-### Eu me chamo Rai, eu sou estudante de ciência da computação. Aqui estão algumas coisas que faço quando tenho tempo livre  :computer: :v: :smile:
+### Eu me chamo Rai, eu sou estudante de ciência da computação. Aqui estão algumas coisas que faço na faculdade e quando tenho tempo livre  :computer: :v: :smile:
 
 
 
