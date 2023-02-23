@@ -3,7 +3,7 @@
 
 # Sobre Mim
 
-:briefcase: No momento estou trabalhando como estagiário de CRM (Customer Relationship Management, ou, em português, Gestão de Relacionamento com o Cliente), onde desenvolvo todos os dias meus conhecimentos em SQL e Power BI(esse ainda tenho que dá uma praticada heheehehe) entre outras coisas...
+:briefcase: No momento estou trabalhando como estagiário de CRM (Customer Relationship Management, ou, em português, Gestão de Relacionamento com o Cliente), onde desenvolvo todos os dias meus conhecimentos em SQL e Power BI entre outras coisas...
 
 :ledger: Atualmente estou focando bastante no meus estudos na faculdade, porém apesar de fazer ccp as vezes ficar só na teória é muito entediante, e é aí que começo a explorar vários assuntos que são de meus interesses, alguns desses estão aqui mesmo no GitHub e você pode ver quando quiser.
 
@@ -11,7 +11,7 @@ Minha linguagen favorita é o Python
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
           
-Porém eu sei que não podemos ficar muito apegado a uma linguagem, e por isso gosto de aprender outras linguagens, e a lógica que já tenho e desenvolvo sempre que posso e muita boa o que facilita muito no aprendizado de outras linguagens de programação.
+Porém eu sei que não podemos ficar muito apegado a uma linguagem, e por isso gosto de aprender outras linguagens, e a lógica que já tenho e desenvolvo sempre que posso.
 
 ### Enfim caso queira saber mais sobre mim ou me dar uns toques relacionados a programação você pode me contatar pelo email ou pelo linkedin que estão abaixo. Eai vamos bater um papo ?  
 
