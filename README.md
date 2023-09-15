@@ -3,7 +3,7 @@
 
 # Sobre Mim
 
-:briefcase: No momento estou trabalhando como estagiário de CRM (Customer Relationship Management, ou, em português, Gestão de Relacionamento com o Cliente), onde desenvolvo todos os dias meus conhecimentos em SQL e Power BI entre outras coisas...
+:briefcase: No momento estou trabalhando como Analista Júnior de CRM (Customer Relationship Management, ou, em português, Gestão de Relacionamento com o Cliente), onde desenvolvo todos os dias meus conhecimentos em SQL e Power BI entre outras coisas...
 
 :ledger: Atualmente estou focando bastante no meus estudos na faculdade, porém apesar de fazer ccp as vezes ficar só na teória é muito entediante, e é aí que começo a explorar vários assuntos que são de meus interesses, alguns desses estão aqui mesmo no GitHub e você pode ver quando quiser.
 
