@@ -7,7 +7,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
 
-### Caso queira saber mais sobre mim, você pode me contatar pelo email ou pelo linkedin que estão abaixo. Eai vamos bater um papo ?  
+### Caso queira saber mais sobre mim, você pode me contatar pelo email ou pelo linkedin que estão abaixo.
 
 ### Contatos:
 
