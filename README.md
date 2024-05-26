@@ -5,15 +5,8 @@
 
 :briefcase: No momento estou trabalhando como Analista Júnior de CRM (Customer Relationship Management), onde desenvolvo todos os dias meus conhecimentos em SQL, Python, PySpark, Power BI e análise de dados.
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td><a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100" alt="Python Logo"></a></td>
-    <td><a href="https://www.credly.com/badges/7f371a63-a507-4c0f-846d-fcf86bdeeef8"><img src="https://images.credly.com/size/100x100/images/197c5976-3094-475b-aac5-cb898331d2fc/DSN_-_Python_Project_for_Data_Engineering.png" width="100" height="100" alt="Credly Badge"></a></td>
-  </tr>
-</table>
-
-
-
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100" alt="Python Logo">](https://www.python.org/)
+[![Credly Badge](https://images.credly.com/size/100x100/images/197c5976-3094-475b-aac5-cb898331d2fc/DSN_-_Python_Project_for_Data_Engineering.png)](https://www.credly.com/badges/7f371a63-a507-4c0f-846d-fcf86bdeeef8)
 
 ### Caso queira saber mais sobre mim, você pode me contatar pelo email ou pelo linkedin que estão abaixo.
 
