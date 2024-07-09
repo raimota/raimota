@@ -5,11 +5,10 @@
 
 :briefcase: No momento estou trabalhando como Analista Júnior de CRM (Customer Relationship Management), onde desenvolvo todos os dias meus conhecimentos em SQL, Python, PySpark, Power BI e análise de dados.
 
+
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100" alt="Python Logo">](https://www.python.org/)
-
-[<img src="https://bit.ly/460hVNu" width="100" height="100" alt="Python Logo">]([https://www.python.org/](https://www.credly.com/badges/7f371a63-a507-4c0f-846d-fcf86bdeeef8))
-
-[![Python for Data Science and AI Foundational](https://bit.ly/3zxkSJr)](https://www.credly.com/badges/e567d176-5a24-45ef-b23d-074c9699e28f/linked_in_profile)
+[![Python Project for Data Engineering](https://raw.githubusercontent.com/raimota/badge_repositories/main/badge_python_project.png?token=GHSAT0AAAAAACUU5S4MTXP4M5MMCCZHVSJ2ZUNVPYQ)](https://www.credly.com/badges/7f371a63-a507-4c0f-846d-fcf86bdeeef8)
+[![Python for Data Science and AI Foundational](https://raw.githubusercontent.com/raimota/badge_repositories/main/badge_python4DataScience.png?token=GHSAT0AAAAAACUU5S4NEQ6WIMZYYHYH7SHCZUNVUUQ)](https://www.credly.com/badges/e567d176-5a24-45ef-b23d-074c9699e28f/linked_in_profile)
 
 
 
