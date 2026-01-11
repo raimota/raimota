@@ -3,7 +3,7 @@
 
 # Sobre Mim
 
-:briefcase: No momento estou trabalhando como Analista Júnior de CRM (Customer Relationship Management), onde desenvolvo todos os dias meus conhecimentos em SQL, Python, PySpark, Power BI e análise de dados.
+:briefcase: No momento estou trabalhando como Analista de CRM (Customer Relationship Management), onde desenvolvo todos os dias meus conhecimentos em SQL, Python, PySpark, Power BI e análise de dados.
 
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100" alt="Python Logo">](https://www.python.org/)
